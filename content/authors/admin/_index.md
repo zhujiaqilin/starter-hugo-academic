@@ -27,12 +27,12 @@ education:
   courses:
     - course: PhD in Mechanical Engineering
       institution: The Chinese University of Hong Kong (CUHK)
-      year: 2023- (expected)
+      year: 2023 (expected)
     - course: MEng in Mechanical Engineering
-      institution: Huazhong University of Science and Technology
+      institution: Huazhong University of Science and Technology (HUST)
       year: 2019-2022
-    - course: BSc in Mechnical Engineering
-      institution: Yanshan University
+    - course: BSc in Mechanical Engineering
+      institution: Yanshan University (YSU)
       year: 2015-2019
 
 # Social/Academic Networking
@@ -42,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:jqzhu@hust.edu.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -51,7 +51,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zhujiaqilin
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
- #- icon: cv
-  # icon_pack: ai
-  # link: uploads/resume.pdf
+#  - icon: cv
+  #  icon_pack: ai
+   #  link: resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'jqzhu@hust.edu.cn'
