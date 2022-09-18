@@ -1,23 +1,28 @@
 ---
-title: 'An example conference paper'
+title: 'Bioinspired Multimodal Multipose Hybrid Fingers for Wide-Range Force, Compliant, and Stable Grasping'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Jiaqi Zhu
+  - Zhiping Chai
+  - Haochen Yong
+  - Yi Xu
+  - Chuanfei Guo
+  - Han Ding
+  - Zhigang Wu
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2020-07-01T00:00:00Z'
+doi: '10.1089/soro.2021.0126'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-05-012T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,10 +31,10 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In *Soft Robotics*
+publication_short: In *SoRo*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Abstract: The increasing demand for grasping diverse objects in unstructured environments poses severe challenges to the existing soft/rigid robotic fingers due to the issues in balancing force, compliance, and stability, and hence has given birth to several hybrid designs. These hybrid designs utilize the advantages of rigid and soft structures and show better performance, but they are still suffering from narrow output force range, limited compliance, and rarely reported stability. Owing to its rigid-soft coupling structure with flexible switched multiple poses, human finger, as an excellent hybrid design, shows wide-range output force, excellent compliance, and stability. Inspired by human finger, we propose a hybrid finger with multiple modes and poses, coupled by a soft actuator (SA) and a rigid actuator (RA) in parallel. The multiple actuation modes formed by a pneumatic-based rigid-soft collaborative strategy can selectively enable the RA’s high-force and SA’s softness, while the multiple poses derived from the specially-designed under-actuated RA skeleton can be flexibly switched with tasks, thus achieving high compliance. Such hybrid fingers also proved to be highly stable under external stimuli or gravity. Further, we modularize and configure these fingers into a series of grippers with excellent grasping performance, e.g. wide graspable object range (diverse from 0.1g potato chips to 27kg dumbbells for a 420g two-finger gripper), high compliance (tolerate objects with 94% gripper span size and 4cm offset), and high stability. Our work highlights the potential of fusing rigid-soft technologies for robot development, and potentially impacts future bionics and high-performance robot development.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
