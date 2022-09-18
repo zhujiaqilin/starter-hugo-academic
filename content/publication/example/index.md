@@ -28,11 +28,11 @@ publishDate: '2020-05-012T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Soft Robotics*
-publication_short: In *SoRo*
+publication_short: In *Soft Robot.*
 
 Abstract: The increasing demand for grasping diverse objects in unstructured environments poses severe challenges to the existing soft/rigid robotic fingers due to the issues in balancing force, compliance, and stability, and hence has given birth to several hybrid designs. These hybrid designs utilize the advantages of rigid and soft structures and show better performance, but they are still suffering from narrow output force range, limited compliance, and rarely reported stability. Owing to its rigid-soft coupling structure with flexible switched multiple poses, human finger, as an excellent hybrid design, shows wide-range output force, excellent compliance, and stability. Inspired by human finger, we propose a hybrid finger with multiple modes and poses, coupled by a soft actuator (SA) and a rigid actuator (RA) in parallel. The multiple actuation modes formed by a pneumatic-based rigid-soft collaborative strategy can selectively enable the RA’s high-force and SA’s softness, while the multiple poses derived from the specially-designed under-actuated RA skeleton can be flexibly switched with tasks, thus achieving high compliance. Such hybrid fingers also proved to be highly stable under external stimuli or gravity. Further, we modularize and configure these fingers into a series of grippers with excellent grasping performance, e.g. wide graspable object range (diverse from 0.1g potato chips to 27kg dumbbells for a 420g two-finger gripper), high compliance (tolerate objects with 94% gripper span size and 4cm offset), and high stability. Our work highlights the potential of fusing rigid-soft technologies for robot development, and potentially impacts future bionics and high-performance robot development.
 
@@ -42,7 +42,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: ture
 
 # Custom links (uncomment lines below)
 # links:
@@ -78,15 +78,15 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: soro1
+slides: example
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+#Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
+#Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
